@@ -1,0 +1,44 @@
+    
+body {
+  width: 320px;
+  padding: 15px;
+  font-family: Arial;
+  background: #ffffff;
+}
+
+h2 {
+  color: #222;
+}
+
+input, textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 9px;
+  margin: 6px 0;
+}
+
+textarea {
+  height: 90px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin: 6px 0;
+  background: #222;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.note {
+  padding: 10px;
+  margin-top: 10px;
+  background: #eeeeee;
+  border-radius: 6px;
+  overflow-wrap: anywhere;
+}
+
+small {
+  color: #555;
+}
